@@ -40,12 +40,12 @@ pip install ttkbootstrap hashlib re requests math logging random string
 ---
 
 ## Usage
-- Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/<YourUsername>/<YourRepositoryName>
 ```
 
-- Run the program:
+2. Run the program:
 ```bash
 python password_checker.py
 ```
