@@ -36,7 +36,7 @@ Install the required libraries using:
 ```bash
 pip install ttkbootstrap requests
 ```
-##Usage
+## Usage
 - Clone the repository:git clone https://github.com/<YourUsername>/<YourRepositoryName>
 
 - Run the program:python password_checker.py
@@ -44,17 +44,17 @@ pip install ttkbootstrap requests
 - Enter a password to evaluate its strength, or generate a strong password with the GUI.
 
 
-##File Structure
+## File Structure
 - password_checker.py: Main program file.
 - password_checker.log: Log file for tracking events.
 - README.md: Project documentation (this file).
 
 
-##Author
+## Author
 Cole Clifford
 Student of SAT4650 (Password Education) - Final Project, 2025
 
-##License
+## License
 This project is licensed under the MIT License.
 
 Feel free to customize this README with additional information if needed!
