@@ -61,4 +61,5 @@ python password_checker.py
 
 ## Author
 Cole Clifford
+
 Student of SAT4650 (Password Education) - Final Project, 2025
