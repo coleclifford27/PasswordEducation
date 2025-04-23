@@ -35,7 +35,7 @@ This final project was developed as part of the SAT4650 course (Applied Computin
 
 Install the required libraries using:
 ```bash
-pip install ttkbootstrap hashlib re requests math logging random string
+pip install ttkbootstrap requests
 ```
 ---
 
