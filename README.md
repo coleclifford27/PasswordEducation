@@ -3,7 +3,7 @@
 ## Project Overview
 The **Password Strength Checker** is a tool designed to evaluate the robustness of passwords based on entropy, length, character diversity, and patterns. It also provides feedback to users for improving password security and generates strong, random passwords.
 
-This final project was developed as part of the SAT4650 course (Password Education). It demonstrates the practical application of GUI design, hashing techniques, API integration, and mathematical calculations for secure password management.
+This final project was developed as part of the SAT4650 course (Applied Computing in Python). It demonstrates the practical application of GUI design, hashing techniques, API integration, and mathematical calculations for secure password management.
 
 ---
 
