@@ -1,8 +1,3 @@
-# Cole Clifford
-# SAT4650
-# Password Education: Final Project
-# 4/22/2025
-
 # Import libraries for GUI, hashing, regex, math, API requests, logging, and password generation
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
