@@ -53,10 +53,3 @@ pip install ttkbootstrap requests
 ## Author
 Cole Clifford
 Student of SAT4650 (Password Education) - Final Project, 2025
-
-## License
-This project is licensed under the MIT License.
-
-Feel free to customize this README with additional information if needed!
-
-Let me know if you encounter any issues while adding this to your repository!
