@@ -26,6 +26,7 @@ This final project was developed as part of the SAT4650 course (Password Educati
 - Required libraries:
   - `ttkbootstrap`
   - `hashlib`
+  - `re`
   - `requests`
   - `math`
   - `logging`
@@ -34,7 +35,7 @@ This final project was developed as part of the SAT4650 course (Password Educati
 
 Install the required libraries using:
 ```bash
-pip install ttkbootstrap requests
+pip install {libraries}
 ```
 ## Usage
 - Clone the repository:git clone https://github.com/<YourUsername>/<YourRepositoryName>
