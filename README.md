@@ -37,6 +37,8 @@ Install the required libraries using:
 ```bash
 pip install ttkbootstrap hashlib re requests math logging random string
 ```
+---
+
 ## Usage
 - Clone the repository:git clone https://github.com/<YourUsername>/<YourRepositoryName>
 
