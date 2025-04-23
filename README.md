@@ -58,8 +58,3 @@ python password_checker.py
 - password_checker.log: Log file for tracking events.
 - README.md: Project documentation (this file).
 
-
-## Author
-Cole Clifford
-
-Student of SAT4650 (Applied Computing in Python) - Final Project, 2025
